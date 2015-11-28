@@ -4,7 +4,7 @@ FullName: Parastoo
 FamilyName: Parastoo
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 0.1.1
+Version: 0.1.2
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1448730948
+ModificationTime: 1448745134
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2310,7 +2310,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Parastoo Regular 0.1.1" "" "Version 0.1.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Gandom Font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoA" "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Parastoo" "Regular" 
+LangName: 1033 "" "" "" "Parastoo Regular 0.1.2" "" "Version 0.1.2" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Gandom Font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoA" "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Parastoo" "Regular" 
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2380,6 +2380,8 @@ WinInfo: 0 25 13
 BeginPrivate: 0
 EndPrivate
 Grid
+-2048 1225.66 m 0
+ 4096 1225.66 l 0
 -2048 675.603 m 0
  4096 675.603 l 0
 -2048 425 m 0
@@ -4034,12 +4036,9 @@ Fore
 SplineSet
 640.396 6.84961 m 2,0,-1
  620.396 0.219727 l 1,1,2
- 620.253 214.029 620.253 214.029 530.047 739.069 c 0,3,4
- 495.918 937.715 495.918 937.715 441.955 1114.2 c 0,5,6
- 421.108 1182.38 421.108 1182.38 389.108 1280.38 c 1,7,8
- 516.396 1436.22 l 5,9,10
- 630.214 1203.32 630.214 1203.32 678.396 858.22 c 4,11,12
- 722.994 533.029 722.994 533.029 722.396 232.22 c 4,13,14
+ 579.756 753.378 579.756 753.378 389.108 1280.38 c 1,3,-1
+ 516.396 1436.22 l 1,4,5
+ 723.945 1011.52 723.945 1011.52 722.396 232.22 c 0,6,7
  722.008 33.9033 722.008 33.9033 640.396 6.84961 c 2,0,-1
 EndSplineSet
 EndChar
@@ -4060,15 +4059,13 @@ SplineSet
  902.793 1353.16 902.793 1353.16 917.922 1434.28 c 1,8,9
  1030.53 1398.23 l 1,10,11
  1030.09 1338.32 1030.09 1338.32 1000 1224.79 c 0,12,13
- 919.701 921.81 919.701 921.81 629 904 c 0,14,15
- 522.654 898.337 522.654 898.337 436.472 927.229 c 5,16,17
- 470.283 659.288 470.283 659.288 474.653 577.219 c 4,18,19
- 486.677 380.557 486.677 380.557 484.653 264.219 c 4,20,21
- 480.974 35.2354 480.974 35.2354 384.653 9.84961 c 2,22,-1
- 350.505 0.849609 l 1,23,24
- 349.71 450.823 349.71 450.823 308.288 716.519 c 0,25,26
- 265.054 993.841 265.054 993.841 181.952 1209.22 c 0,27,28
- 134.905 1331.15 134.905 1331.15 134.839 1334.77 c 1,29,30
+ 918.452 917.098 918.452 917.098 629 904 c 0,14,15
+ 535.577 899.772 535.577 899.772 477.685 918.285 c 1,16,17
+ 560.565 673.399 560.565 673.399 559.685 286.654 c 0,18,19
+ 559.141 40.9627 559.141 40.9627 480.685 20.2852 c 2,20,-1
+ 446.536 11.2852 l 1,21,22
+ 438.408 452.658 438.408 452.658 330.685 842.285 c 0,23,24
+ 294.802 971.355 294.802 971.355 134.839 1334.77 c 0,25,-1
  270.059 1437.15 l 1,0,1
 EndSplineSet
 EndChar
@@ -4082,30 +4079,28 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-1166.32 1420.16 m 1,0,1
- 1169 1282.07 1169 1282.07 1141.49 1159.58 c 0,2,3
- 1089.92 928.273 1089.92 928.273 922.487 916.575 c 0,4,5
- 785.117 906.345 785.117 906.345 719.399 1034.75 c 1,6,7
- 670.535 913.575 670.535 913.575 523.758 905.942 c 0,8,9
- 451.566 901.999 451.566 901.999 379.472 927.229 c 1,10,11
- 413.283 659.288 413.283 659.288 417.653 577.219 c 0,12,13
- 429.295 358.596 429.295 358.596 427.653 264.219 c 0,14,15
- 423.974 35.2358 423.974 35.2358 327.653 9.84961 c 2,16,-1
- 293.505 0.849609 l 1,17,18
- 292.71 450.822 292.71 450.822 251.288 716.519 c 0,19,20
- 208.055 993.837 208.055 993.837 124.952 1209.22 c 0,21,22
- 77.9053 1331.15 77.9053 1331.15 77.8389 1334.77 c 1,23,24
- 213.059 1437.15 l 1,25,26
- 238.375 1378.68 238.375 1378.68 291.372 1262.41 c 24,27,28
- 360.086 1111.66 360.086 1111.66 475.176 1095.04 c 0,29,30
- 556.286 1083.33 556.286 1083.33 605.198 1122.51 c 0,31,32
- 665.511 1173.24 665.511 1173.24 665.511 1364.71 c 5,33,-1
- 759.58 1388.79 l 1,34,35
- 761.856 1211.72 761.856 1211.72 775.789 1175.86 c 0,36,37
- 807.963 1092.3 807.963 1092.3 889.198 1091.51 c 24,38,39
- 1000.82 1091.77 1000.82 1091.77 1027.49 1222.58 c 0,40,41
- 1045.63 1310.8 1045.63 1310.8 1043.49 1444.86 c 1,42,43
- 1166.32 1420.16 l 1,0,1
+426.698 920.514 m 1,0,1
+ 510.58 675.489 510.58 675.489 509.698 287.883 c 4,2,3
+ 509.151 40.4926 509.151 40.4926 428.685 19.2852 c 6,4,-1
+ 394.536 10.2852 l 5,5,6
+ 386.388 451.653 386.388 451.653 278.685 842.285 c 0,7,8
+ 242.803 971.355 242.803 971.355 82.8389 1334.77 c 0,9,-1
+ 218.059 1437.15 l 1,10,11
+ 250.664 1357.08 250.664 1357.08 296.372 1262.41 c 8,12,13
+ 368.845 1112.3 368.845 1112.3 475.176 1095.04 c 0,14,15
+ 556.787 1081.79 556.787 1081.79 605.198 1122.51 c 0,16,17
+ 665.511 1173.24 665.511 1173.24 665.511 1364.71 c 1,18,-1
+ 759.58 1388.79 l 1,19,20
+ 761.856 1211.72 761.856 1211.72 775.789 1175.86 c 0,21,22
+ 807.963 1092.3 807.963 1092.3 889.198 1091.51 c 24,23,24
+ 1000.82 1091.77 1000.82 1091.77 1027.49 1222.58 c 0,25,26
+ 1045.63 1310.8 1045.63 1310.8 1043.49 1444.86 c 1,27,-1
+ 1166.32 1420.16 l 1,28,29
+ 1169 1282.07 1169 1282.07 1141.49 1159.58 c 0,30,31
+ 1089.92 928.273 1089.92 928.273 922.487 916.575 c 0,32,33
+ 785.117 906.345 785.117 906.345 719.399 1034.75 c 1,34,35
+ 673.202 920.19 673.202 920.19 523.758 905.942 c 0,36,37
+ 490.256 902.748 490.256 902.748 426.698 920.514 c 1,0,1
 EndSplineSet
 EndChar
 
@@ -4212,12 +4207,12 @@ LayerCount: 2
 Fore
 SplineSet
 886.925 1363.4 m 5,0,1
- 1060.92 1307.03 l 5,2,3
- 877.615 942.735 877.615 942.735 802.614 644.968 c 4,4,5
- 712.81 286.067 712.81 286.067 673.704 0.849609 c 1,6,-1
- 504.147 0.849609 l 1,7,8
- 482.32 235.71 482.32 235.71 374.21 645.602 c 4,9,10
- 310.925 883.751 310.925 883.751 112.925 1307.03 c 5,11,12
+ 1003.92 1225.66 l 5,2,3
+ 841.595 860.701 841.595 860.701 787.614 644.968 c 4,4,5
+ 697.81 286.067 697.81 286.067 658.704 0.849609 c 5,6,-1
+ 519.147 0.849609 l 5,7,8
+ 529.923 90.7589 529.923 90.7589 389.21 645.602 c 4,9,10
+ 334.923 859.66 334.923 859.66 163.923 1225.66 c 5,11,12
  289.925 1363.4 l 5,13,14
  408.284 1133.18 408.284 1133.18 513.448 765.114 c 4,15,16
  567.635 575.462 567.635 575.462 588.505 460.649 c 5,17,18
@@ -4235,18 +4230,18 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-886.925 0.849609 m 1,0,1
- 720.637 355 720.637 355 665.561 599.132 c 4,2,3
- 589.058 935.38 589.058 935.38 588.505 935.597 c 1,4,5
- 571.563 840.055 571.563 840.055 513.448 599.132 c 0,6,7
- 439.14 291.079 439.14 291.079 289.925 0.849609 c 1,8,-1
- 112.925 57.2168 l 1,9,10
- 313.38 485.742 313.38 485.742 374.21 718.645 c 0,11,12
- 485.383 1151.36 485.383 1151.36 504.147 1372.4 c 1,13,-1
- 673.704 1372.4 l 1,14,15
- 734.822 950.167 734.822 950.167 803.614 719.278 c 0,16,17
- 892.63 423 892.63 423 1060.92 57.2168 c 1,18,-1
- 886.925 0.849609 l 1,0,1
+886.925 0.849609 m 5,0,1
+ 1003.92 138.59 l 5,2,3
+ 841.595 503.549 841.595 503.549 787.614 719.282 c 4,4,5
+ 697.81 1078.18 697.81 1078.18 658.704 1363.4 c 5,6,-1
+ 519.147 1363.4 l 5,7,8
+ 497.476 1130.22 497.476 1130.22 389.21 718.648 c 4,9,10
+ 322.923 466.66 322.923 466.66 163.923 138.59 c 5,11,12
+ 289.925 0.849609 l 5,13,14
+ 408.284 231.069 408.284 231.069 513.448 599.136 c 4,15,16
+ 567.635 788.788 567.635 788.788 588.505 903.601 c 5,17,18
+ 609.68 787.104 609.68 787.104 663.561 599.136 c 4,19,20
+ 721.686 395.229 721.686 395.229 886.925 0.849609 c 5,0,1
 EndSplineSet
 EndChar
 
@@ -4818,25 +4813,23 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-235.059 1437.15 m 1,0,1
- 294.096 1328.28 294.096 1328.28 378.914 1119.22 c 1,2,3
- 406.23 1357.59 406.23 1357.59 590.526 1453.13 c 0,4,5
- 746.995 1533.09 746.995 1533.09 939.096 1454.28 c 1,6,7
- 961.027 1425.66 961.027 1425.66 980.399 1295.91 c 1,8,9
- 884.466 1362.13 884.466 1362.13 767.526 1356.13 c 0,10,11
- 662.651 1350.75 662.651 1350.75 597.526 1288.13 c 0,12,13
- 479.091 1174.26 479.091 1174.26 516 1003.29 c 1,14,15
- 757.789 911.283 757.789 911.283 1005 1018.29 c 1,16,17
- 1031.03 972.66 1031.03 972.66 1041 871.285 c 1,18,19
- 725.756 742.285 725.756 742.285 438 856.285 c 1,20,21
- 442.536 836.523 442.536 836.523 459.653 577.219 c 0,22,23
- 476.269 325.51 476.269 325.51 469.653 264.219 c 0,24,25
- 444.908 34.9544 444.908 34.9544 349.653 9.84961 c 2,26,-1
- 315.505 0.849609 l 1,27,28
- 314.71 450.822 314.71 450.822 273.288 716.519 c 0,29,30
- 230.055 993.837 230.055 993.837 146.952 1209.22 c 0,31,32
- 99.9053 1331.15 99.9053 1331.15 99.8389 1334.77 c 5,33,34
- 235.059 1437.15 l 1,0,1
+361.42 1119.66 m 1,0,1
+ 386.579 1348.91 386.579 1348.91 590.526 1453.13 c 0,2,3
+ 746.995 1533.09 746.995 1533.09 939.096 1454.28 c 1,4,5
+ 961.027 1425.66 961.027 1425.66 980.399 1295.91 c 1,6,7
+ 884.466 1362.13 884.466 1362.13 767.526 1356.13 c 0,8,9
+ 662.651 1350.75 662.651 1350.75 597.526 1288.13 c 0,10,11
+ 479.091 1174.26 479.091 1174.26 516 1003.29 c 1,12,13
+ 757.789 911.283 757.789 911.283 1005 1018.29 c 1,14,15
+ 1031.03 972.66 1031.03 972.66 1041 871.285 c 1,16,17
+ 725.756 742.285 725.756 742.285 438 856.285 c 1,18,19
+ 497.619 611.399 497.619 611.399 496.685 284.654 c 0,20,21
+ 496.141 38.9627 496.141 38.9627 417.685 18.2852 c 2,22,-1
+ 383.536 9.28516 l 1,23,24
+ 375.284 455.24 375.284 455.24 267.685 842.285 c 0,25,26
+ 231.803 971.355 231.803 971.355 71.8389 1334.77 c 0,27,-1
+ 207.059 1437.15 l 1,28,29
+ 284.239 1278.41 284.239 1278.41 361.42 1119.66 c 1,0,1
 EndSplineSet
 EndChar
 
@@ -4881,9 +4874,9 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-149.344 3 m 1,0,1
- 198.174 171.662 198.174 171.662 317.344 361 c 0,2,3
- 453.344 575 453.344 575 537.344 635.1 c 1,4,5
+165.106 0 m 1,0,1
+ 192.149 130.528 192.149 130.528 335.511 375.921 c 0,2,3
+ 416.79 515.077 416.79 515.077 537.344 635.1 c 1,4,5
  263.146 707.685 263.146 707.685 265.344 980 c 0,6,7
  266.796 1139.93 266.796 1139.93 345.344 1233 c 0,8,9
  482.318 1395.9 482.318 1395.9 741 1366.21 c 0,10,11
@@ -4892,12 +4885,11 @@ SplineSet
  701.455 1248.05 701.455 1248.05 579.399 1196.02 c 0,16,17
  455.769 1143.33 455.769 1143.33 431.344 1027 c 0,18,19
  379.092 778.143 379.092 778.143 702.344 743.1 c 1,20,21
- 807.923 753.294 807.923 753.294 949.633 810.213 c 5,22,23
- 1010.99 769.894 1010.99 769.894 1037.99 679.894 c 1,24,25
- 753.45 614.053 753.45 614.053 573 418.213 c 0,26,27
- 469.059 305.925 469.059 305.925 425 238.213 c 0,28,29
- 273.092 4.75141 273.092 4.75141 220 4 c 2,30,-1
- 149.344 3 l 1,0,1
+ 789.234 753.294 789.234 753.294 989.667 831.921 c 1,22,23
+ 996.107 768.921 996.107 768.921 984.106 642.921 c 1,24,25
+ 727.396 588.042 727.396 588.042 459.106 270.921 c 0,26,27
+ 229.903 0 229.903 0 188.511 0 c 2,28,-1
+ 165.106 0 l 1,0,1
 EndSplineSet
 EndChar
 
@@ -5348,16 +5340,16 @@ AnchorPoint: "Anchor-7" 230.02 -216.43 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-4.82129 -0.179688 m 0,0,1
+37.8213 -0.179688 m 4,0,1
  -30.1113 -0.179688 l 1,2,-1
  -30.1113 178.938 l 1,3,-1
- 11.0264 178.938 l 2,4,5
- 319.074 178.938 319.074 178.938 313.11 342.796 c 0,6,7
- 311.687 387.324 311.687 387.324 190.61 606.916 c 5,8,9
+ 44.0264 178.938 l 6,4,5
+ 319.074 178.94 319.074 178.94 313.11 342.796 c 0,6,7
+ 311.687 387.324 311.687 387.324 190.61 606.916 c 1,8,9
  334.127 737.134 l 1,10,11
  419.632 557.728 419.632 557.728 429.219 390.911 c 0,12,13
  439.614 210.029 439.614 210.029 352.898 108.951 c 0,14,15
- 255.732 -4.47559 255.732 -4.47559 4.82129 -0.179688 c 0,0,1
+ 256.24 -4.47559 256.24 -4.47559 37.8213 -0.179688 c 4,0,1
 EndSplineSet
 EndChar
 
@@ -5842,12 +5834,12 @@ Width: 527
 VWidth: 2272
 GlyphClass: 2
 Flags: W
-AnchorPoint: "Anchor-10" 280.442 1524.32 basechar 0
+AnchorPoint: "Anchor-10" 222.442 1524.32 basechar 0
 AnchorPoint: "Anchor-7" 304.822 -293.051 basechar 0
 LayerCount: 2
 Fore
 Refer: 115 64488 N 1 0 0 1 0 0 2
-Refer: 52 1620 S 1.06 0 0 1.06 -284.368 -490.74 2
+Refer: 52 1620 S 1.06 0 0 1.06 -342.368 -490.74 2
 EndChar
 
 StartChar: uniFE8C
