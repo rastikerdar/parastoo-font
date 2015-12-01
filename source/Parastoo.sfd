@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1448929651
+ModificationTime: 1448930028
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3992,7 +3992,7 @@ EndChar
 
 StartChar: afii57392
 Encoding: 1632 1632 56
-Width: 1193
+Width: 1196
 VWidth: 2159
 GlyphClass: 2
 Flags: W
@@ -4040,7 +4040,7 @@ EndChar
 
 StartChar: afii57394
 Encoding: 1634 1634 58
-Width: 1193
+Width: 1196
 VWidth: 2020
 GlyphClass: 2
 Flags: W
@@ -4067,7 +4067,7 @@ EndChar
 
 StartChar: afii57395
 Encoding: 1635 1635 59
-Width: 1194
+Width: 1196
 VWidth: 2020
 GlyphClass: 2
 Flags: W
@@ -4101,7 +4101,7 @@ EndChar
 
 StartChar: afii57396
 Encoding: 1636 1636 60
-Width: 1192
+Width: 1196
 VWidth: 2154
 GlyphClass: 2
 Flags: W
@@ -4134,7 +4134,7 @@ EndChar
 
 StartChar: afii57397
 Encoding: 1637 1637 61
-Width: 1195
+Width: 1196
 VWidth: 2156
 GlyphClass: 2
 Flags: W
@@ -4167,7 +4167,7 @@ EndChar
 
 StartChar: afii57398
 Encoding: 1638 1638 62
-Width: 1194
+Width: 1196
 VWidth: 2156
 GlyphClass: 2
 Flags: W
@@ -4194,7 +4194,7 @@ EndChar
 
 StartChar: afii57399
 Encoding: 1639 1639 63
-Width: 1194
+Width: 1196
 VWidth: 2157
 GlyphClass: 2
 Flags: W
@@ -4218,7 +4218,7 @@ EndChar
 
 StartChar: afii57400
 Encoding: 1640 1640 64
-Width: 1194
+Width: 1196
 VWidth: 2157
 GlyphClass: 2
 Flags: W
@@ -4242,7 +4242,7 @@ EndChar
 
 StartChar: afii57401
 Encoding: 1641 1641 65
-Width: 1194
+Width: 1196
 VWidth: 2157
 GlyphClass: 2
 Flags: W
@@ -4758,7 +4758,7 @@ EndChar
 
 StartChar: uni06F0
 Encoding: 1776 1776 83
-Width: 1211
+Width: 1196
 VWidth: 2255
 GlyphClass: 2
 Flags: W
@@ -4769,7 +4769,7 @@ EndChar
 
 StartChar: uni06F1
 Encoding: 1777 1777 84
-Width: 1215
+Width: 1196
 VWidth: 2250
 GlyphClass: 2
 Flags: W
@@ -4780,7 +4780,7 @@ EndChar
 
 StartChar: uni06F2
 Encoding: 1778 1778 85
-Width: 1211
+Width: 1196
 VWidth: 2250
 GlyphClass: 2
 Flags: W
@@ -4791,7 +4791,7 @@ EndChar
 
 StartChar: uni06F3
 Encoding: 1779 1779 86
-Width: 1210
+Width: 1196
 VWidth: 2250
 GlyphClass: 2
 Flags: W
@@ -4802,7 +4802,7 @@ EndChar
 
 StartChar: uni06F4
 Encoding: 1780 1780 87
-Width: 1168
+Width: 1196
 VWidth: 1970
 GlyphClass: 2
 Flags: W
@@ -4831,7 +4831,7 @@ EndChar
 
 StartChar: uni06F5
 Encoding: 1781 1781 88
-Width: 1194
+Width: 1196
 VWidth: 2020
 GlyphClass: 2
 Flags: W
@@ -4863,7 +4863,7 @@ EndChar
 
 StartChar: uni06F6
 Encoding: 1782 1782 89
-Width: 1191
+Width: 1196
 VWidth: 2157
 GlyphClass: 2
 Flags: W
@@ -4891,7 +4891,7 @@ EndChar
 
 StartChar: uni06F7
 Encoding: 1783 1783 90
-Width: 1237
+Width: 1196
 VWidth: 2313
 GlyphClass: 2
 Flags: W
@@ -4902,7 +4902,7 @@ EndChar
 
 StartChar: uni06F8
 Encoding: 1784 1784 91
-Width: 1212
+Width: 1196
 VWidth: 2250
 GlyphClass: 2
 Flags: W
@@ -4913,7 +4913,7 @@ EndChar
 
 StartChar: uni06F9
 Encoding: 1785 1785 92
-Width: 1212
+Width: 1196
 VWidth: 2250
 GlyphClass: 2
 Flags: W
