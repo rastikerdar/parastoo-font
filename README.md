@@ -10,7 +10,8 @@
 </div>
 
 
-<pre><code class="lang-css">@font-face {
+```css
+@font-face {
   font-family: Parastoo;
   src: url('Parastoo.eot');
   src: url('Parastoo.eot?#iefix') format('embedded-opentype'),
@@ -27,4 +28,4 @@
        url('Parastoo-Bold.ttf') format('truetype');
   font-weight: bold;
 }
-</code></pre>
+```
