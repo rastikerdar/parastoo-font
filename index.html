@@ -8,10 +8,10 @@
     <style>
       @font-face {
         font-family: Parastoo;
-        src: url('Parastoo.eot?v=0.8.2');
-        src: url('Parastoo.eot?v=0.8.2#iefix') format('embedded-opentype'),
-             url('Parastoo.woff?v=0.8.2') format('woff'),
-             url('Parastoo.ttf?v=0.8.2') format('truetype');
+        src: url('Parastoo.eot?v=0.8.3');
+        src: url('Parastoo.eot?v=0.8.3#iefix') format('embedded-opentype'),
+             url('Parastoo.woff?v=0.8.3') format('woff'),
+             url('Parastoo.ttf?v=0.8.3') format('truetype');
         font-weight: normal;
       }             
 
@@ -24,6 +24,10 @@
         text-decoration: none;
         color: #007fba;
       }
+
+      p {
+        margin-bottom: 15px;
+      }
      
       h1 { font-weight: normal; }
       
@@ -35,9 +39,9 @@
         font-family: Parastoo,serif;
       }
 
-      header, .sample, footer {
+      header, .sample, .row, footer {
         margin: auto;
-        padding: 100px 20%;
+        padding:50px 20%;
       }
 
       header {
@@ -69,41 +73,61 @@
       
       .sample {
         text-align: center;
-      }
-      
-      .sample.sec0 {
         background-color: #555;
         color: #eee;
       }
-
-      .sample.sec-test {
-        background-color: #f9f9f9;
-        color: #51575B;
-      }
-
-      .sample.sec-test.second {
+      
+      .story {
+        text-align: right;
         background-color: #fff;
-        color: #252525;
+        color: #333;
+        font-size: 14px;
       }
-
-      .sample.sec-test.second h2 {
-	font-weight: normal;
+      
+      .row {
       }
-
-      .sample.sec-test p {
-        margin-bottom: 30px;
+      
+      .row img {
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        max-width: 100%;
+        width: 300px;
+        clear: both;
+        border-radius: 2px;
       }
-
-      .sample.sec-test a { color: #0b6db3; }
-
-      .sample.sec1 {
-        background-color: #5F9D15;
+      
+      .row-1 {
+        color: #000;
+      }
+      
+      .row-2 {
+        background-color: #555f67;
         color: #fff;
-        font-size: 15px;
+      }
+      
+      .row-3 {
+        background-color: #1C7369;
+        color: #fff;
+      }
+      
+      .row-3 a {
+        color: #FDFFAD;
+        border-bottom: 1px solid #FDFFAD;
+      }
+      
+      .sample.right-img img {
+        float: right;
+      }
+     
+      .sample.sec1 {
+        background-color: #e6e6e7;
+        color: #222;
+        text-align: center;
       }
       .sample.sec2 {
         background-color: #F2F2EE;
-        color: #222;
+        color: #333;
         font-size: 18px;
       }
       
@@ -118,9 +142,11 @@
       }
             
       footer {
-        background-color: #000000;
+        background-color: #284A55;
         color: #eee;
         text-align: center;
+        background-image: url("pics/paint.jpg");
+        background-size: cover;        
       }
       
       footer a {
@@ -129,7 +155,7 @@
       }
 
       @media all and (max-width: 700px){
-        header, .sample, footer {
+        header, .sample, .row, footer {
           padding: 30px 30px;
         }
       }
@@ -147,7 +173,7 @@
         <a href="https://github.com/rastikerdar/parastoo-font" class="github">GitHub</a>
       </div>
       <div class="info">
-        <div class="version">آخرین نسخه: 0.8.2</div>
+        <div class="version">آخرین نسخه: 0.8.3</div>
         <div class="license">مجوز: SIL Open Font License 1.1</div>
         <div class="notice">این فونت در حال توسعه می باشد. هم اکنون می توانید از قلم استفاده نمایید اما در آینده نسخه های جدید منتشر خواهد شد. از پایگاه های دانلود فایل نیز تقاضا می گردد تا پیش از انتشار نسخه اصلی آن را بر روی سرورهای خود برای دانلود قرار ندهند.</div>
         <div class="other-fonts">سایر قلم‌های آزاد:
@@ -163,21 +189,56 @@
       </div>
     </header>
 
-    <section class="sample sec-test second">
+    <section class="story">
+      <div class="row row-1">
+        <p>متن آزمایشی</p>
+        <a href="http://ednewbold.com/swallows-are-arriving-for-another-critical-breeding-season-in-seattle/" target="_blank"><img src="pics/Barn-Swallow-nisq-portrait.jpg"></a>
+<p>روی شاخه نازک درخت بیدی که سایه نرمش تن پوش خاک خشک شده بود، پرستویی برای استراحت نشسته بود. این مرغک زیبا راه درازی را طی کرده بود و از سرزمین‌های دور می‌آمد و خواسته‌اش این بود تا به محل زندگی مرغ‌های بهشتی برود.
+
+ آخر تعریف‌های شگفت انگیز زیادی را از آنجا شنیده بود. اینکه چقدر مرغان آنجا زیبایند و چه لباس‌های رنگارنگ و زیبایی به تن دارند. گویی به مانند پرندگان اشرافی بوده و بسیار در آوازه خوانی و دلبری سرآمد همه مرغانند. این شد که پرستو برای رسیدن به آن بهشت زیبا بال گشود و راهی پرواز شد.
+ </p> 
+      </div>
+
+      <div class="row row-2">
+        <a href="http://www.wildart.co.uk/gallery-of-paintings/wildlife-art-gallery-page-4" target="_blank"><img src="pics/Golden Eagel over Knoydart painting.jpg"></a>
+<p>پرستو هنوز از جایش بر نخواسته بود که ناگهان عقاب بزرگی را در آسمان آبی دید. بال‌های این پرنده آنقدر بزرگ بود که پرستوی کوچک با دیدنش شگفت‌زده شد و به آهستگی به سوی عقاب رفت و از وی راجع به محل زندگی پرنده‌های بهشتی سؤال کرد.
+</p>
+<p>
+عقاب از دیدن پرستو و در خواستش تعجب کرد و گفت: ‌ای پرنده کوچک تو کجا و آنجا کجا! تو می‌دانی که چه راه درازی در پیش داری! فکر می‌کنی تو با این بال‌های کوچکت قادری که به آنجا برسی؟ من که سلطان آسمان‌ها هستم هنوز نتوانستم آنجا را از نزدیک ببینم و ترجیح می‌دهم که در همین آسمان پایین پرواز کنم. حال تو هم از ادامه سفر منصرف شو و تا دیر نشده و اتفاق بدی برایت نیافتاده به خانه‌ات برگرد.
+</p>
+<p>
+پرستو با شنیدن حرف‌های مأیوس کننده عقاب ناراحت شد و گفت: ‌ای عقاب درست است که بال‌هایم کوچک و کم پر است اما در قلبم شوقی دارم که مرا برای پرواز به فراسوی مکان یاری می‌کند. پس اکنون به راه می‌افتم و نیازی به کمکت ندارم.
+</p>
+<p>
+عقاب هم با نیش خندی وی را بدرود گفت و رفت.
+</p>
+      </div>
+
+      <div class="row row-3">
+        <a href="http://andralynn.deviantart.com/art/Painting-the-Stars-418391562" target="_blank"><img src="pics/painting_the_stars_by_andralynn.jpg"></a>
+<p>
+پرستوی کوچک در نیمه‌های راه بود که ستارگان پر نور درآسمان تاریک هویدا شدند. پس با عشق وافر رو به ستاره بزرگ کرد و گفت: ‌ای ستاره تو می‌دانی که من از کجا می‌آیم و به کجا می‌روم و راهم چقدر طولانی است. می‌خواهم که مرا مساعدت کنی تا در رسیدن به مقصود عافیت یابم. ستاره پر نور به پرستو سلامی کرد و گفت: آری می‌دانم که عازم کجائی و همینطور می‌دانم که چقدر میل وصال داری! پس تو را راهنمایی می‌کنم در ابتدا باید در راه جنوب ازچند کوه گذر کنی تا جایی رسی که دریای فیروزه‌ای با خشکی کوچکی در میان آن را که چون جواهر می‌درخشد، ببینی.
+
+</p>
+<p>
+در آن جزیره، جنگل سبز و انبوهی است که درختانش سالیان درازی از آب چشمه‌های زلال می‌نوشند و طنین ملایم نسیم صبحگاهی همواره نوازشگر برگ‌های زیبایشان است. آری مرغان بهشتی را در آنجا خواهی یافت.
+</p>
+<p><a href="http://homayounkhoshravan.blogfa.com/post/7" target="_blank">ادامه داستان در وبلاگ داستان‌های کوتاه</a></p>
+      </div>
+    </section>
+
+    <section class="sample sec1">
       <p>
 این تنها یک تلاش صادقانه و ناچیز برای ساخت قلمی جدید و تازه از گونه نسخ بود. شاید برای فرد یا افرادی مفید و راهگشا باشد. به راستی دنیای فونت سرشار است از خلاقیت و زیبایی. هر تلاش شما نقشی تازه می‌نگارد از گنجینه احساس و خیال. اگر در اندیشه شما قلم پرستو واجد ارزشی می باشد و یا ظرفیتی در قلم می‌بینید پس بیایید با کمک هم (با گزارش اشکالات، پیشنهادات، تغییر و اصلاح آن) از آن، قلمی خوب و مفید بسازیم و بر تنوع و زیبایی فونت فارسی بیفزاییم. این فقط یک نمایش اولیه از قلم پرستو می‌باشد. هر حرفی، هر نویسه ای، هر چیزی قابل تغییر است. چه کلی و چه جزئی. مهم این است که شما بدانید، این قلم می تواند آن طور که شما دوست می‌دارید باشد. چه این و چه سایر قلم‌های آزاد.
       </p>
       <p>سپاس</p>
     </section>
-
-    <section class="sample sec3">
-      <h2>طراحی</h2>
-      <p>
-این فونت بر مبنای قلم‌ <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a> ساخته شده که خود باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می‌باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می‌توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
-</p>
-    </section>
         
     <footer>
+      <p>
+این فونت بر مبنای قلم‌ <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a> ساخته شده که خود باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می‌باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می‌توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
+      </p>
+
       صفحه وبلاگ برای ثبت دیدگاه یا گفتگو پیرامون قلم پرستو:
       <a href="http://rastikerdar.blog.ir/post/12" target="_blank">rastikerdar.blog.ir</a>
       <br>
@@ -186,6 +247,8 @@
       saber.rastikerdar بر روی جی‌میل
       <br>
       © 2015
+      <br>
+      برای مشاهده منبع هر یک از تصاویر بر روی آن کلیک کنید.
     </footer>
   </body>
 </html>
