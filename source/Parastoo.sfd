@@ -4,7 +4,7 @@ FullName: Parastoo
 FamilyName: Parastoo
 Weight: Regular
 Copyright: Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.\nDejaVu changes are in public domain\nCopyright (c) 2015 by Saber Rastikerdar. All Rights Reserved.
-Version: 0.10.1
+Version: 0.10.2
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 100
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1457035600
+ModificationTime: 1457036275
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2311,7 +2311,7 @@ ShortTable: maxp 16
   8
   4
 EndShort
-LangName: 1033 "" "" "" "Parastoo 0.10.1" "" "Version 0.10.1" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Gandom Font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoA" "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Parastoo" "Regular"
+LangName: 1033 "" "" "" "Parastoo 0.10.2" "" "Version 0.10.2" "" "" "DejaVu fonts team - Redesigned by Saber Rastikerdar - Based on Gandom Font" "" "" "" "" "Changes to Arabic glyphs by me are under SIL Open Font License 1.1+AAoACgAA-Fonts are (c) Bitstream (see below). DejaVu changes are in public domain. +AAoACgAA-Bitstream Vera Fonts Copyright+AAoA-------------------------------+AAoACgAA-Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. Bitstream Vera is+AAoA-a trademark of Bitstream, Inc.+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy+AAoA-of the fonts accompanying this license (+ACIA-Fonts+ACIA) and associated+AAoA-documentation files (the +ACIA-Font Software+ACIA), to reproduce and distribute the+AAoA-Font Software, including without limitation the rights to use, copy, merge,+AAoA-publish, distribute, and/or sell copies of the Font Software, and to permit+AAoA-persons to whom the Font Software is furnished to do so, subject to the+AAoA-following conditions:+AAoACgAA-The above copyright and trademark notices and this permission notice shall+AAoA-be included in all copies of one or more of the Font Software typefaces.+AAoACgAA-The Font Software may be modified, altered, or added to, and in particular+AAoA-the designs of glyphs or characters in the Fonts may be modified and+AAoA-additional glyphs or characters may be added to the Fonts, only if the fonts+AAoA-are renamed to names not containing either the words +ACIA-Bitstream+ACIA or the word+AAoAIgAA-Vera+ACIA.+AAoACgAA-This License becomes null and void to the extent applicable to Fonts or Font+AAoA-Software that has been modified and is distributed under the +ACIA-Bitstream+AAoA-Vera+ACIA names.+AAoACgAA-The Font Software may be sold as part of a larger software package but no+AAoA-copy of one or more of the Font Software typefaces may be sold by itself.+AAoACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS+AAoA-OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,+AAoA-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,+AAoA-TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTREAM OR THE GNOME+AAoA-FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING+AAoA-ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,+AAoA-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF+AAoA-THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE+AAoA-FONT SOFTWARE.+AAoACgAA-Except as contained in this notice, the names of Gnome, the Gnome+AAoA-Foundation, and Bitstream Inc., shall not be used in advertising or+AAoA-otherwise to promote the sale, use or other dealings in this Font Software+AAoA-without prior written authorization from the Gnome Foundation or Bitstream+AAoA-Inc., respectively. For further information, contact: fonts at gnome dot+AAoA-org. +AAoA" "http://scripts.sil.org/OFL_web - http://dejavu.sourceforge.net/wiki/index.php/License" "" "Parastoo" "Regular"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -2718,7 +2718,7 @@ EndChar
 
 StartChar: uni0628
 Encoding: 18 1576 13
-Width: 2041
+Width: 1801
 VWidth: 2418
 GlyphClass: 2
 Flags: W
@@ -2750,7 +2750,7 @@ EndChar
 
 StartChar: uni062A
 Encoding: 20 1578 15
-Width: 2041
+Width: 1801
 VWidth: 2373
 GlyphClass: 2
 Flags: W
@@ -2767,7 +2767,7 @@ EndChar
 
 StartChar: uni062B
 Encoding: 21 1579 16
-Width: 2041
+Width: 1801
 VWidth: 2368
 GlyphClass: 2
 Flags: W
@@ -3418,20 +3418,20 @@ LayerCount: 2
 Fore
 SplineSet
 192.287109375 -412.2265625 m 4,0,1
- 324.23364648 -597.519504135 324.23364648 -597.519504135 618.461914062 -593.610351562 c 4,2,3
- 1122 -587 1122 -587 1196.6875 11.046875 c 4,4,5
- 1210.734375 117.69685858 1210.734375 117.69685858 1210.734375 476.048828125 c 6,6,-1
- 1210.734375 1533.23046875 l 5,7,-1
- 1056.09277344 1437.58984375 l 5,8,9
- 1084 1241 1084 1241 1088.34179688 988.99609375 c 4,10,11
- 1102 210 1102 210 1087.45898438 27.857421875 c 4,12,13
- 1057 -378 1057 -378 653.147460938 -392.490234375 c 4,14,15
- 345 -403 345 -403 245.98046875 -207.971679688 c 4,16,17
- 162 -43 162 -43 231 177 c 4,18,19
- 272 306 272 306 246.5 322 c 4,20,21
- 222 338 222 338 191.059570312 290.641601562 c 4,22,23
- 170 259 170 259 147 181 c 4,24,25
- 34 -192 34 -192 192.287109375 -412.2265625 c 4,0,1
+ 34 -192 34 -192 147 181 c 4,2,3
+ 170 259 170 259 191.059570312 290.641601562 c 4,4,5
+ 222 338 222 338 246.5 322 c 4,6,7
+ 272 306 272 306 231 177 c 4,8,9
+ 162 -43 162 -43 245.98046875 -207.971679688 c 4,10,11
+ 345 -403 345 -403 653.147460938 -392.490234375 c 4,12,13
+ 1057 -378 1057 -378 1087.45898438 27.857421875 c 4,14,15
+ 1102 210 1102 210 1088.34179688 988.99609375 c 4,16,17
+ 1084 1241 1084 1241 1056.09277344 1437.58984375 c 5,18,-1
+ 1210.734375 1533.23046875 l 5,19,-1
+ 1210.734375 476.048828125 l 6,20,21
+ 1210.734375 117.69685858 1210.734375 117.69685858 1196.6875 11.046875 c 4,22,23
+ 1122 -587 1122 -587 618.461914062 -593.610351562 c 4,24,25
+ 324.23364648 -597.519504135 324.23364648 -597.519504135 192.287109375 -412.2265625 c 4,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEDE
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEE0
@@ -4412,7 +4412,7 @@ EndChar
 
 StartChar: uni066E
 Encoding: 75 1646 70
-Width: 2041
+Width: 1801
 VWidth: 2890
 GlyphClass: 2
 Flags: W
@@ -4421,7 +4421,7 @@ AnchorPoint: "Anchor-7" 509.124 -334.78 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-175.829101562 503.297851562 m 4,0,1
+175.829101562 503.297851562 m 0,0,1
  188.354492188 207.296875 188.354492188 207.296875 617.266601562 187.635742188 c 0,2,3
  706.125 183.318359375 706.125 183.318359375 935.381835938 187.545898438 c 0,4,5
  1409.96679688 196.3125 1409.96679688 196.3125 1553.55761719 308.833007812 c 0,6,7
@@ -4434,12 +4434,12 @@ SplineSet
  1278.97323829 22.2978579657 1278.97323829 22.2978579657 982.423828125 -3.1279296875 c 0,16,17
  909.55078125 -9.376953125 909.55078125 -9.376953125 841.442382812 -10.28125 c 0,18,19
  449.120117188 -15.0673828125 449.120117188 -15.0673828125 304.682617188 59.15625 c 0,20,21
- 89 170 89 170 92.013671875 444.005859375 c 28,22,23
- 93 584 93 584 131 682 c 4,24,25
- 154 742 154 742 185.532226562 727.696289062 c 4,26,27
- 201 721 201 721 196.142578125 694.287109375 c 4,28,29
- 189 657 189 657 182 619 c 4,30,31
- 174 569 174 569 175.829101562 503.297851562 c 4,0,1
+ 89 170 89 170 92.013671875 444.005859375 c 24,22,23
+ 93 584 93 584 131 682 c 0,24,25
+ 154 742 154 742 185.532226562 727.696289062 c 0,26,27
+ 201 721 201 721 196.142578125 694.287109375 c 0,28,29
+ 189 657 189 657 182 619 c 0,30,31
+ 174 569 174 569 175.829101562 503.297851562 c 0,0,1
 EndSplineSet
 Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uni066E.init
 Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uni066E.medi
@@ -4539,7 +4539,7 @@ EndChar
 
 StartChar: afii57506
 Encoding: 79 1662 74
-Width: 2041
+Width: 1801
 VWidth: 2421
 GlyphClass: 2
 Flags: W
@@ -4979,7 +4979,7 @@ EndChar
 
 StartChar: uniFB56
 Encoding: 104 64342 93
-Width: 2041
+Width: 1801
 VWidth: 2421
 GlyphClass: 2
 Flags: W
@@ -5948,7 +5948,7 @@ EndChar
 
 StartChar: uniFE8F
 Encoding: 163 65167 151
-Width: 2041
+Width: 1801
 VWidth: 2418
 GlyphClass: 2
 Flags: W
@@ -6030,7 +6030,7 @@ EndChar
 
 StartChar: uniFE95
 Encoding: 169 65173 157
-Width: 2041
+Width: 1801
 VWidth: 2373
 GlyphClass: 2
 Flags: W
@@ -6085,7 +6085,7 @@ EndChar
 
 StartChar: uniFE99
 Encoding: 173 65177 161
-Width: 2041
+Width: 1801
 VWidth: 2368
 GlyphClass: 2
 Flags: W
