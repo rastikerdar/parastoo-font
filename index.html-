@@ -1,0 +1,230 @@
+<html>
+  <head>
+    <title>فونت (قلم) فارسی پرستو - صفحه رسمی پروژه</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <meta name="description" content="قلم فارسی پرستو">   
+    <meta name="keywords" content="فونت,فارسی,پرستو,font,farsi,Parastoo">
+    <style>
+      @font-face {
+        font-family: Parastoo;
+        src: url('Parastoo.eot?v=0.10.7');
+        src: url('Parastoo.eot?v=0.10.7#iefix') format('embedded-opentype'),
+             url('Parastoo.woff?v=0.10.7') format('woff'),
+             url('Parastoo.ttf?v=0.10.7') format('truetype');
+        font-weight: normal;
+      }             
+
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      a {
+        text-decoration: none;
+        color: #007fba;
+      }
+
+      p {
+        margin-bottom: 15px;
+      }
+     
+      h1 { font-weight: normal; }
+      
+      body {
+        color: #000;
+        font-size: 15px;
+        direction: rtl;
+        line-height: 1.8;
+        font-family: Parastoo,serif;
+      }
+
+      header, .sample, .row, footer {
+        margin: auto;
+        padding:50px 20%;
+      }
+
+      header {
+        text-align: right;
+        background-color: #eee;
+        color: #444;
+      }
+      
+      header .get {
+        margin: 20px 0;
+      }
+      
+      header .get a {
+        display: inline-block;
+        border-bottom: 1px solid #d5d5d5;
+        color: #007fba;
+        margin: 0 5px;
+      }
+      
+      header .info {
+        color: #999;
+        font-size: 12px;
+      }
+      
+      .swallow{
+         float: left;
+         width: 100px;
+      }
+      
+      .sample {
+        text-align: center;
+        background-color: #555;
+        color: #eee;
+      }
+      
+      .story {
+        text-align: right;
+        background-color: #fff;
+        color: #333;
+        font-size: 14px;
+      }
+      
+      .row {
+      }
+      
+      .row img {
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        max-width: 100%;
+        width: 300px;
+        clear: both;
+        border-radius: 2px;
+      }
+      
+      .row-1 {
+        background-color: #f2f2f2;
+        color: #232323;
+      }
+      
+      .row-2 {
+        background-color: #555f67;
+        color: #fff;
+      }
+      
+      .row-3 {
+        background-color: #1C7369;
+        color: #fff;
+      }
+      
+      .row-1 a {
+        color: #00520d;
+      }
+      
+      .sample.right-img img {
+        float: right;
+      }
+
+      .sample.sec0 {
+        background: #f5f5f5 url("pics/bg.jpg") repeat scroll center top / cover ;
+        color: #114870;
+        text-align: right;
+      }
+     
+      .sample.sec1 {
+        background-color: #efefef;
+        color: #09356A;
+        text-align: center;
+      }
+      
+      .sample.sec2 {
+        background-color: #F2F2EE;
+        color: #333;
+        font-size: 18px;
+      }
+      
+      .sample.sec3 {
+        background-color: #4c7b8b;
+        color: #fff;
+        font-size: 14px;
+      }
+      
+      .sample.sec3 a {
+        color: #E6FF65;
+      }
+            
+      footer {
+        background-color: #284A55;
+        color: #eee;
+        text-align: center;
+        background-image: url("pics/paint.jpg");
+        background-size: cover;        
+      }
+      
+      footer a {
+        color: #D7DD77;
+        text-decoration: underline;
+      }
+
+      @media all and (max-width: 700px){
+        header, .sample, .row, footer {
+          padding: 30px 30px;
+        }
+      }
+    </style>
+  </head>
+  
+  <body>
+    <header>
+      <h1>فونت پارسی پرستو</h1>
+<img class="swallow" src="swallow.png">
+      <div class="swallow"></div>
+      <div class="description">قلمی آزاد</div>
+      <div class="get">
+        <a href="https://github.com/rastikerdar/parastoo-font/archive/master.zip" class="download">دریافت (دانلود)</a>
+        <a href="https://github.com/rastikerdar/parastoo-font" class="github">GitHub</a>
+      </div>
+      <div class="info">
+        <div class="version">آخرین نسخه: 0.10.7</div>
+        <div class="license">مجوز: SIL Open Font License 1.1</div>
+        <div class="notice">این فونت در حال توسعه می باشد. هم اکنون می توانید از قلم استفاده نمایید اما در آینده نسخه های جدید منتشر خواهد شد. از پایگاه های دانلود فایل نیز تقاضا می گردد تا پیش از انتشار نسخه اصلی آن را بر روی سرورهای خود برای دانلود قرار ندهند.</div>
+        <div class="other-fonts">سایر قلم‌های آزاد:
+          <a href="http://rastikerdar.github.io/vazir-font/" target="_blank">وزیر</a>،
+          <a href="http://rastikerdar.github.io/tanha-font/" target="_blank">تنها</a>،
+          <a href="http://rastikerdar.github.io/shabnam-font/" target="_blank">شبنم</a>،
+          <a href="http://rastikerdar.github.io/samim-font/" target="_blank">صمیم</a>،
+          <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a>
+        </div>
+        <div>برای مقایسه قلم های فارسی به <a href="http://rastikerdar.github.io/compare-fonts/" target="_blank">این صفحه </a> مراجعه نمایید.</div>
+        <div>صفحه <a href="test.html" rel="nofollow" target="_blank">تست</a> قلم پرستو</div>
+      </div>
+    </header>
+    <section class="story">
+      <div class="row row-1">
+        <p>متن آزمایشی</p>
+        <a href="http://ednewbold.com/swallows-are-arriving-for-another-critical-breeding-season-in-seattle/" target="_blank"><img src="pics/Barn-Swallow-nisq-portrait.jpg"></a>
+<p>تابستونها هوای خرمشهر خیلی گرم و زجرآوره، اون قدیما تو خرمشهر مردم خیلی فقیر بودند و کسی تو خونه اش کولر نداشت، شاید چند تا خانواده بودن که کولر داشتن تو خونشون. ماهم جزء اون چند تا خانواده بودیم. وقتی شبها می خواستیم بخوابیم، کولر روشن می کردیم و همین که کولر روشن می شد، محمد می رفت روی ایوان، رختخوابش رو پهن می کرد و می خوابید. برام سوال شده بود که این بچه چرا نمیاد توی خونه زیر کولر بگیر بخوابه؟ رفتم بهش گفتم: بابا جان! بیا تو خونه، روی ایوان گرمه اذیت می شی. گفت: نمیام، رو ایوان راحت ترم، زیر کولر خوابم نمی گیره. این کار محمد همش برام سوال بود. یک شب ازش خواستم دلیل این کارش رو برام بگه. خلاصه با کلی اصرار بهم گفت: باباجان! تو خرمشهر فقط چند تا خانواده هستند که کولر دارن، می دونی چقدر بدبخت بیچاره ها هستند که کولر ندارن و شبها به سختی و با زجر می خوابند؟ دوست ندارم زیر کولر بخوابم و با بدخت بیچاره ها فرق کنم، دوست دارم مثل اونها باشم.
+<a href="http://fakeh.blogfa.com/post-470.aspx" target="_blank">منبع</a>
+ </p> 
+      </div>
+    </section>
+    <section class="sample sec1">
+      <p>
+این تنها یک تلاش صادقانه و ناچیز برای ساخت قلمی جدید و تازه از گونه نسخ بود. شاید برای فرد یا افرادی مفید و راهگشا باشد. به راستی دنیای فونت سرشار است از خلاقیت و زیبایی. هر تلاش شما نقشی تازه می‌نگارد از گنجینه احساس و خیال. اگر در اندیشه شما قلم پرستو واجد ارزشی می باشد و یا ظرفیتی در قلم می‌بینید پس بیایید با کمک هم (با گزارش اشکالات، پیشنهادات، تغییر و اصلاح آن) از آن، قلمی خوب و مفید بسازیم و بر تنوع و زیبایی فونت فارسی بیفزاییم. این فقط یک نمایش اولیه از قلم پرستو می‌باشد. هر حرفی، هر نویسه ای، هر چیزی قابل تغییر است. چه کلی و چه جزئی. مهم این است که شما بدانید، این قلم می تواند آن طور که شما دوست می‌دارید باشد. چه این و چه سایر قلم‌های آزاد.
+      </p>
+      <p>سپاس</p>
+    </section>
+        
+    <footer>
+      <p>
+این فونت بر مبنای قلم‌ <a href="http://rastikerdar.github.io/gandom-font/" target="_blank">گندم</a> ساخته شده که خود باز طراحی فونت <a href="http://dejavu-fonts.org">DejaVu 2.35</a> می‌باشد. توضیحات مربوط به فونت اصلی و مجوز آن را می‌توانید در تارنمای پروژه فونت DejaVu مشاهده نمایید.
+      </p>
+
+      صفحه وبلاگ برای ثبت دیدگاه یا گفتگو پیرامون قلم پرستو:
+      <a href="http://rastikerdar.blog.ir/post/12" target="_blank">rastikerdar.blog.ir</a>
+      <br>
+      توسط صابر راستی کردار
+      <br>
+      saber.rastikerdar بر روی جی‌میل
+      <br>
+      © 2015
+      <br>
+      برای مشاهده منبع هر یک از تصاویر بر روی آن کلیک کنید.
+    </footer>
+  </body>
+</html>
