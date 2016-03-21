@@ -1,0 +1,16 @@
+StartChar: arabic_gaf_bar
+Encoding: 65550 -1 275
+Width: 718
+VWidth: 2590
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+697.322265625 2035.26660156 m 5,0,1
+ 676 1954 676 1954 641.594726562 1896.3515625 c 5,2,-1
+ 25.2587890625 1684.18652344 l 1,3,-1
+ 61.818359375 1806.27832031 l 1,4,-1
+ 697.322265625 2035.26660156 l 5,0,1
+EndSplineSet
+EndChar

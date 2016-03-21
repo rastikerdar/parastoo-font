@@ -1,0 +1,30 @@
+StartChar: uni0647
+Encoding: 1607 1607 39
+Width: 864
+VWidth: 3089
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-10" 386.256 1236.98 basechar 0
+AnchorPoint: "Anchor-7" 392.26 -276.428 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+416 643 m 1,0,1
+ 232 495 232 495 220 401 c 0,2,3
+ 204 281 204 281 437.104492188 282.82421875 c 0,4,5
+ 610 284 610 284 669.341796875 390.53125 c 1,6,7
+ 598 523 598 523 416 643 c 1,0,1
+130.09375 141.87890625 m 0,8,9
+ 90 210 90 210 89.1240234375 311.438476562 c 0,10,11
+ 87 481 87 481 306 741 c 1,12,-1
+ 261.662109375 774.251953125 l 1,13,-1
+ 390.865234375 992.547851562 l 1,14,15
+ 677 738 677 738 758.927734375 454.384765625 c 0,16,17
+ 832 200 832 200 662.635742188 65.3037109375 c 0,18,19
+ 582 1 582 1 432.897460938 1.197265625 c 0,20,21
+ 213 1 213 1 130.09375 141.87890625 c 0,8,9
+EndSplineSet
+Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uniFEEA
+Substitution2: "'medi' Medial Forms in Arabic lookup 11 subtable" uniFEEC
+Substitution2: "'init' Initial Forms in Arabic lookup 13 subtable" uniFEEB
+EndChar

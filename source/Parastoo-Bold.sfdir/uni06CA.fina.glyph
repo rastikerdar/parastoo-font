@@ -1,0 +1,13 @@
+StartChar: uni06CA.fina
+Encoding: 65561 -1 289
+Width: 909
+VWidth: 2556
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-7" 462.432 -751.949 basechar 0
+AnchorPoint: "Anchor-10" 301.957 1371.06 basechar 0
+LayerCount: 2
+Fore
+Refer: 262 -1 S 1.06 0 0 1.06 166.657 901.359 2
+Refer: 246 65262 N 1 0 0 1 0 0 2
+EndChar

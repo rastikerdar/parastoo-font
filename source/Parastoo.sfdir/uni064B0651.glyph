@@ -1,0 +1,18 @@
+StartChar: uni064B0651
+Encoding: 65554 -1 279
+Width: -21
+VWidth: 2186
+GlyphClass: 4
+Flags: W
+AnchorPoint: "Anchor-10" 474.84 573.5 mark 0
+AnchorPoint: "Anchor-9" 474.84 573.5 mark 0
+AnchorPoint: "Anchor-1" 422.84 1635.5 basemark 0
+AnchorPoint: "Anchor-1" 474.84 573.5 mark 0
+LayerCount: 2
+Fore
+Refer: 49 1617 N 1 0 0 1 -20 -1 2
+Refer: 43 1611 N 1 0 0 1 -7 -319 2
+LCarets2: 1 0
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni0651 uni064D
+Ligature2: "'rlig' Required Ligatures in Arabic lookup 14 subtable" uni064D uni0651
+EndChar

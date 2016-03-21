@@ -1,0 +1,14 @@
+StartChar: uniFE70
+Encoding: 65136 65136 121
+Width: 687
+VWidth: 2341
+GlyphClass: 3
+Flags: W
+AnchorPoint: "Anchor-10" 343.855 1943.69 basechar 0
+AnchorPoint: "Anchor-7" 343.855 -119.438 basechar 0
+LayerCount: 2
+Fore
+Refer: 43 1611 S 1 0 0 1 -242.991 0 2
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures in Arabic lookup 19 subtable" space uni064B
+EndChar

@@ -1,0 +1,12 @@
+StartChar: uniFEDD
+Encoding: 65245 65245 229
+Width: 1394
+VWidth: 2871
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-10" 502.908 1146.79 basechar 0
+AnchorPoint: "Anchor-7" 221.259 -626.413 basechar 0
+LayerCount: 2
+Fore
+Refer: 36 1604 S 1 0 0 1 0 0 2
+EndChar
