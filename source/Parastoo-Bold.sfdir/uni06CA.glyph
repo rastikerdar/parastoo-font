@@ -4,10 +4,10 @@ Width: 924
 VWidth: 2557
 Flags: W
 AnchorPoint: "Anchor-7" 615.565 -772.726 basechar 0
-AnchorPoint: "Anchor-10" 370.063 1338.9 basechar 0
+AnchorPoint: "Anchor-10" 381.063 1338.9 basechar 0
 LayerCount: 2
 Fore
-Refer: 262 -1 S 1.06 0 0 1.06 169.711 915.068 2
+Refer: 262 -1 N 1.06 0 0 1.06 180.711 915.068 2
 Refer: 40 1608 N 1 0 0 1 0 0 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 9 subtable" uni06CA.fina
 EndChar
