@@ -11,7 +11,7 @@ AnchorPoint: "Anchor-9" 251.901 2082.75 baselig 1
 LayerCount: 2
 Fore
 Refer: 259 65275 N 1 0 0 1 0 0 2
-Refer: 52 1620 N 1.113 0 0 1.113 -460.456 -160.987 2
+Refer: 52 1620 N 1.113 0 0 1.113 -470.456 -160.987 2
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Arabic lookup 17 subtable" uniFEDF uniFE84
 EndChar
