@@ -3,7 +3,7 @@
 <p dir="rtl">فونت (قلم) فارسی پرستو</p>
 <p dir="rtl">
 <a href="http://rastikerdar.github.io/parastoo-font/">نمایش فونت</a> <br />
-<a href="https://github.com/rastikerdar/vazir-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a> <br />
+<a href="https://github.com/rastikerdar/parastoo-font/releases">صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot</a> <br />
 </p>
 <p dir="rtl">با تشکر از برنامه <a href="https://fontforge.github.io">FontForge</a></p>
 <p dir="rtl">بر مبنای فونت <a href="http://rastikerdar.github.io/gandom-font/" dir="rtl">گندم</a></p>
