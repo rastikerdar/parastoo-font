@@ -4,7 +4,7 @@ FullName: Parastoo Bold
 FamilyName: Parastoo
 Weight: Bold
 Copyright: Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved.\nBased on DejaVu font.\nNon-Arabic(Latin) glyphs and data are imported from Lora font under the Open Font License.
-Version: 2.0.0
+Version: 2.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1573730859
+ModificationTime: 1574890515
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -88,7 +88,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 1 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 1"
 EndFPST
-LangName: 1033 "" "" "" "Parastoo Bold" "" "Version 2.0.0" "" "" "Saber Rastikerdar (saber.rastikerdar@gmail.com)" "" "" "" "" "SIL Open Font License 1.1+AAoA-Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved." "http://scripts.sil.org/OFL_web" "" "Parastoo" "Bold"
+LangName: 1033 "" "" "" "Parastoo Bold" "" "Version 2.0.1" "" "" "Saber Rastikerdar (saber.rastikerdar@gmail.com)" "" "" "" "" "SIL Open Font License 1.1+AAoA-Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved." "http://scripts.sil.org/OFL_web" "" "Parastoo" "Bold"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -154,7 +154,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 156 12 12
+WinInfo: 192 12 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3908,13 +3908,15 @@ LayerCount: 2
 Fore
 SplineSet
 335 702 m 0
- 338.865122446 426.1380512 332.641601562 333 522 333 c 2
- 543 333 l 6
- 570 333 573 294 573 217 c 6
- 573 114 l 6
- 573 38 569 0 543 0 c 6
+ 337.282450972 539.096655549 336.046793925 439.91272196 373.646278509 385.999999023 c 0
+ 399.718090093 348.616445234 444.462447241 333 522 333 c 2
+ 543 333 l 2
+ 570 333 573 294 573 217 c 2
+ 573 114 l 2
+ 573 38 569 0 543 0 c 2
  522 0 l 2
- 221.512695312 0 158.030111753 142.574126725 142 549 c 0
+ 380.817865022 0 291.955307879 31.4737110924 235.752044301 107 c 4
+ 172.334173166 192.221322612 150.498461111 333.530854693 142 549 c 0
  129.497070312 865.998046875 122 1147 88 1355 c 1
  249 1527 l 2
  303 1586 317.244682371 1591.57863812 321 1483 c 0
@@ -7199,13 +7201,15 @@ LayerCount: 2
 Fore
 SplineSet
 335 702 m 0
- 338.865122446 426.1380512 332.641601562 333 522 333 c 2
+ 337.431692559 528.444968416 335.87016191 427.214558158 381.531727225 375.999999107 c 0
+ 408.44822708 345.810130192 451.774026184 333 522 333 c 2
  543 333 l 2
- 570 333 573 294 573 217 c 6
- 573 114 l 6
+ 570 333 573 294 573 217 c 2
+ 573 114 l 2
  573 38 569 0 543 0 c 2
  522 0 l 2
- 221.512695312 0 158.030111753 142.574126725 142 549 c 0
+ 403.467303292 0 321.813770864 22.1852738491 265.404438476 74 c 4
+ 178.812820753 153.53862897 151.706741864 302.896223598 142 549 c 0
  129.497070312 865.998046875 122 977 88 1185 c 1
  249 1357 l 2
  303 1416 317.245117188 1421.57910156 321 1313 c 0
@@ -7261,11 +7265,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-713 1426 m 5
- 157 -199 l 5
+740 1416 m 5
+ 184 -209 l 5
  55 -168 l 1
  611 1457 l 1
- 713 1426 l 5
+ 740 1416 l 5
 EndSplineSet
 EndChar
 
@@ -7912,11 +7916,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-778 1554 m 1
- 210 -96 l 1
- 89 -96 l 5
- 657 1554 l 5
- 778 1554 l 1
+808 1554 m 1
+ 240 -96 l 1
+ 59 -96 l 5
+ 627 1554 l 5
+ 808 1554 l 1
 EndSplineSet
 EndChar
 EndChars

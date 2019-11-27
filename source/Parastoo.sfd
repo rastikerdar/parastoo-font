@@ -4,7 +4,7 @@ FullName: Parastoo
 FamilyName: Parastoo
 Weight: Regular
 Copyright: Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved.\nBased on DejaVu font.\nNon-Arabic(Latin) glyphs and data are imported from Lora font under the Open Font License.
-Version: 2.0.0
+Version: 2.0.1
 ItalicAngle: 0
 UnderlinePosition: -500
 UnderlineWidth: 100
@@ -23,7 +23,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1431850356
-ModificationTime: 1573730575
+ModificationTime: 1574890495
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -88,7 +88,7 @@ ChainSub2: coverage "'calt' Contextual Alternates lookup 1 subtable 1" 0 0 0 1
  1
   SeqLookup: 0 "Single Substitution 1"
 EndFPST
-LangName: 1033 "" "" "" "Parastoo Regular" "" "Version 2.0.0" "" "" "Saber Rastikerdar (saber.rastikerdar@gmail.com)" "" "" "" "" "SIL Open Font License 1.1+AAoA-Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved." "http://scripts.sil.org/OFL_web" "" "Parastoo" "Regular"
+LangName: 1033 "" "" "" "Parastoo Regular" "" "Version 2.0.1" "" "" "Saber Rastikerdar (saber.rastikerdar@gmail.com)" "" "" "" "" "SIL Open Font License 1.1+AAoA-Copyright (c) 2016 by Saber Rastikerdar. All Rights Reserved." "http://scripts.sil.org/OFL_web" "" "Parastoo" "Regular"
 GaspTable: 2 8 2 65535 3 0
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
@@ -154,7 +154,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 96 12 12
+WinInfo: 192 12 12
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -2518,16 +2518,16 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-322 544 m 4
- 322 475 378 419 447 419 c 4
- 516 419 572 475 572 544 c 4
- 572 613 516 669 447 669 c 4
- 378 669 322 613 322 544 c 4
-195 544 m 4
- 195 683 308 796 447 796 c 4
- 586 796 699 683 699 544 c 4
- 699 405 586 292 447 292 c 4
- 308 292 195 405 195 544 c 4
+322 544 m 0
+ 322 475 378 419 447 419 c 0
+ 516 419 572 475 572 544 c 0
+ 572 613 516 669 447 669 c 0
+ 378 669 322 613 322 544 c 0
+200 544 m 4
+ 200 680 311 791 447 791 c 4
+ 583 791 694 680 694 544 c 4
+ 694 408 583 297 447 297 c 4
+ 311 297 200 408 200 544 c 4
 EndSplineSet
 PairPos2: "'kern' Horizontal Kerning lookup 0 subtable 6" uni06F8 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning lookup 0 subtable 6" uni06F7 dx=-40 dy=0 dh=-40 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -3813,16 +3813,18 @@ Fore
 SplineSet
 522 199 m 2
  543 199 l 2
- 569 199 573 167 573 102 c 6
- 573 95 l 6
+ 569 199 573 167 573 102 c 2
+ 573 95 l 2
  573 32 569 0 543 0 c 2
  523 0 l 2
- 221.779215173 0 192.780273438 142.668945312 181 529 c 0
+ 400.182524179 0 322.620763634 23.7181009955 273.029642801 78 c 0
+ 200.994128353 156.849287016 187.977074187 300.188636376 181 529 c 0
  171.825761562 829.866803335 162 1107 128 1389 c 1
  242 1511 l 2
- 269.377929688 1539.18359375 283.40457778 1537.77717327 285 1488 c 4
- 295 1176 300.07038833 929.747222437 301 617 c 4
- 301.952251166 296.636221308 297.096982466 199 522 199 c 2
+ 269.377929688 1539.18359375 283.40457778 1537.77717327 285 1488 c 0
+ 295 1176 300.07038833 929.747222437 301 617 c 0
+ 301.587519705 419.342029755 299.96432546 306.46843035 351.455875705 248.999999304 c 4
+ 383.421762499 213.323672754 435.857594322 199 522 199 c 2
 EndSplineSet
 EndChar
 
@@ -7079,16 +7081,18 @@ Fore
 SplineSet
 522 199 m 2
  543 199 l 2
- 569 199 573 167 573 102 c 6
- 573 95 l 6
+ 569 199 573 167 573 102 c 2
+ 573 95 l 2
  573 32 569 0 543 0 c 2
  523 0 l 2
- 221.779215173 0 192.780273438 142.668945312 181 529 c 0
+ 394.307750758 0 315.304229766 26.0414020153 266.103413243 86 c 4
+ 200.14338166 166.382223226 187.747320993 307.723333602 181 529 c 0
  171.825761562 829.866803335 162 937 128 1219 c 1
  242 1341 l 2
  269.377929688 1369.18359375 283.404296875 1367.77734375 285 1318 c 0
  295 1006 296.07038833 929.747222437 301 617 c 0
- 306.049061148 296.674595978 297.096982466 199 522 199 c 2
+ 304.208362284 413.453258379 301.763334691 299.808613273 357.259213544 243.99999933 c 0
+ 389.098261664 211.981529101 440.008770994 199 522 199 c 2
 EndSplineSet
 EndChar
 
