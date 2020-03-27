@@ -48,4 +48,14 @@ Arch user's could use [parastoo-fonts](https://aur.archlinux.org/packages/parast
 pacaur -S parastoo-fonts
 ```
 
+
+#### GNU/Linux
+gnu/linux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install parastoo font.
+
+```
+kateb install parastoo
+or
+kateb update parastoo
+```
+
 2016 Saber Rastikerdar ([@rastikerdar](https://github.com/rastikerdar)). See the `LICENSE` file.
