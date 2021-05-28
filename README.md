@@ -1,6 +1,8 @@
 # Parastoo-Font
 A Persian (Farsi) Font
 
+## توسعه این پروژه متوقف و بایگانی شده است. این موضوع شامل تمامی ابعاد پروژه از طراحی گرفته تا رفع اشکال می‌شود. قسمت ایشوهای مخزن همچنان باز است.
+
 فونت فارسی پرستو  
 [نمایش فونت - صفحه رسمی پروژه](http://rastikerdar.github.io/parastoo-font/)  
 [صفحه دریافت (دانلود) بسته فونت شامل فایل های ttf,woff,eot](https://github.com/rastikerdar/parastoo-font/releases)  
